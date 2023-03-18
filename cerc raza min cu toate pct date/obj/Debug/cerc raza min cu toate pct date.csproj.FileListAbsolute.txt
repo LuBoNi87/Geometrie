@@ -1,0 +1,11 @@
+D:\College 2021-2022\Geometrie\cerc raza min cu toate pct date\bin\Debug\cerc raza min cu toate pct date.exe.config
+D:\College 2021-2022\Geometrie\cerc raza min cu toate pct date\bin\Debug\cerc raza min cu toate pct date.exe
+D:\College 2021-2022\Geometrie\cerc raza min cu toate pct date\bin\Debug\cerc raza min cu toate pct date.pdb
+D:\College 2021-2022\Geometrie\cerc raza min cu toate pct date\obj\Debug\cerc raza min cu toate pct date.csproj.AssemblyReference.cache
+D:\College 2021-2022\Geometrie\cerc raza min cu toate pct date\obj\Debug\cerc raza min cu toate pct date.csproj.SuggestedBindingRedirects.cache
+D:\College 2021-2022\Geometrie\cerc raza min cu toate pct date\obj\Debug\cerc_raza_min_cu_toate_pct_date.Form1.resources
+D:\College 2021-2022\Geometrie\cerc raza min cu toate pct date\obj\Debug\cerc_raza_min_cu_toate_pct_date.Properties.Resources.resources
+D:\College 2021-2022\Geometrie\cerc raza min cu toate pct date\obj\Debug\cerc raza min cu toate pct date.csproj.GenerateResource.cache
+D:\College 2021-2022\Geometrie\cerc raza min cu toate pct date\obj\Debug\cerc raza min cu toate pct date.csproj.CoreCompileInputs.cache
+D:\College 2021-2022\Geometrie\cerc raza min cu toate pct date\obj\Debug\cerc raza min cu toate pct date.exe
+D:\College 2021-2022\Geometrie\cerc raza min cu toate pct date\obj\Debug\cerc raza min cu toate pct date.pdb

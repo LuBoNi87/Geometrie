@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cerc raza min cu toate pct date", "cerc raza min cu toate pct date.csproj", "{450BC3DE-2508-4C5C-8F00-A9C2F9499B6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{450BC3DE-2508-4C5C-8F00-A9C2F9499B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450BC3DE-2508-4C5C-8F00-A9C2F9499B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450BC3DE-2508-4C5C-8F00-A9C2F9499B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450BC3DE-2508-4C5C-8F00-A9C2F9499B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70C1BE53-52D0-416C-B9BF-C80F6591A979}
+	EndGlobalSection
+EndGlobal

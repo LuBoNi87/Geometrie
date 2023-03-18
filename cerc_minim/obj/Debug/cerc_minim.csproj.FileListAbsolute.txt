@@ -1,0 +1,11 @@
+D:\College 2021-2022\Geometrie\cerc_minim\bin\Debug\cerc_minim.exe.config
+D:\College 2021-2022\Geometrie\cerc_minim\bin\Debug\cerc_minim.exe
+D:\College 2021-2022\Geometrie\cerc_minim\bin\Debug\cerc_minim.pdb
+D:\College 2021-2022\Geometrie\cerc_minim\obj\Debug\cerc_minim.csproj.AssemblyReference.cache
+D:\College 2021-2022\Geometrie\cerc_minim\obj\Debug\cerc_minim.csproj.SuggestedBindingRedirects.cache
+D:\College 2021-2022\Geometrie\cerc_minim\obj\Debug\cerc_minim.Form1.resources
+D:\College 2021-2022\Geometrie\cerc_minim\obj\Debug\cerc_minim.Properties.Resources.resources
+D:\College 2021-2022\Geometrie\cerc_minim\obj\Debug\cerc_minim.csproj.GenerateResource.cache
+D:\College 2021-2022\Geometrie\cerc_minim\obj\Debug\cerc_minim.csproj.CoreCompileInputs.cache
+D:\College 2021-2022\Geometrie\cerc_minim\obj\Debug\cerc_minim.exe
+D:\College 2021-2022\Geometrie\cerc_minim\obj\Debug\cerc_minim.pdb

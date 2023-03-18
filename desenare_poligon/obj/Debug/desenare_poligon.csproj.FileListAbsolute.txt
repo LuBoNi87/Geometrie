@@ -1,0 +1,11 @@
+D:\College 2021-2022\Geometrie\desenare_poligon\bin\Debug\desenare_poligon.exe.config
+D:\College 2021-2022\Geometrie\desenare_poligon\bin\Debug\desenare_poligon.exe
+D:\College 2021-2022\Geometrie\desenare_poligon\bin\Debug\desenare_poligon.pdb
+D:\College 2021-2022\Geometrie\desenare_poligon\obj\Debug\desenare_poligon.csproj.AssemblyReference.cache
+D:\College 2021-2022\Geometrie\desenare_poligon\obj\Debug\desenare_poligon.csproj.SuggestedBindingRedirects.cache
+D:\College 2021-2022\Geometrie\desenare_poligon\obj\Debug\desenare_poligon.Form1.resources
+D:\College 2021-2022\Geometrie\desenare_poligon\obj\Debug\desenare_poligon.Properties.Resources.resources
+D:\College 2021-2022\Geometrie\desenare_poligon\obj\Debug\desenare_poligon.csproj.GenerateResource.cache
+D:\College 2021-2022\Geometrie\desenare_poligon\obj\Debug\desenare_poligon.csproj.CoreCompileInputs.cache
+D:\College 2021-2022\Geometrie\desenare_poligon\obj\Debug\desenare_poligon.exe
+D:\College 2021-2022\Geometrie\desenare_poligon\obj\Debug\desenare_poligon.pdb
