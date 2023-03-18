@@ -1,0 +1,11 @@
+D:\College 2021-2022\Geometrie\tema2_triunghi\bin\Debug\tema2_triunghi.exe.config
+D:\College 2021-2022\Geometrie\tema2_triunghi\bin\Debug\tema2_triunghi.exe
+D:\College 2021-2022\Geometrie\tema2_triunghi\bin\Debug\tema2_triunghi.pdb
+D:\College 2021-2022\Geometrie\tema2_triunghi\obj\Debug\tema2_triunghi.csproj.AssemblyReference.cache
+D:\College 2021-2022\Geometrie\tema2_triunghi\obj\Debug\tema2_triunghi.csproj.SuggestedBindingRedirects.cache
+D:\College 2021-2022\Geometrie\tema2_triunghi\obj\Debug\tema2_triunghi.Form1.resources
+D:\College 2021-2022\Geometrie\tema2_triunghi\obj\Debug\tema2_triunghi.Properties.Resources.resources
+D:\College 2021-2022\Geometrie\tema2_triunghi\obj\Debug\tema2_triunghi.csproj.GenerateResource.cache
+D:\College 2021-2022\Geometrie\tema2_triunghi\obj\Debug\tema2_triunghi.csproj.CoreCompileInputs.cache
+D:\College 2021-2022\Geometrie\tema2_triunghi\obj\Debug\tema2_triunghi.exe
+D:\College 2021-2022\Geometrie\tema2_triunghi\obj\Debug\tema2_triunghi.pdb

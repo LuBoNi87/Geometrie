@@ -1,0 +1,11 @@
+D:\College 2021-2022\Geometrie\Partitionare_Poligon\bin\Debug\Partitionare_Poligon.exe.config
+D:\College 2021-2022\Geometrie\Partitionare_Poligon\bin\Debug\Partitionare_Poligon.exe
+D:\College 2021-2022\Geometrie\Partitionare_Poligon\bin\Debug\Partitionare_Poligon.pdb
+D:\College 2021-2022\Geometrie\Partitionare_Poligon\obj\Debug\Partitionare_Poligon.csproj.AssemblyReference.cache
+D:\College 2021-2022\Geometrie\Partitionare_Poligon\obj\Debug\Partitionare_Poligon.csproj.SuggestedBindingRedirects.cache
+D:\College 2021-2022\Geometrie\Partitionare_Poligon\obj\Debug\Partitionare_Poligon.Form1.resources
+D:\College 2021-2022\Geometrie\Partitionare_Poligon\obj\Debug\Partitionare_Poligon.Properties.Resources.resources
+D:\College 2021-2022\Geometrie\Partitionare_Poligon\obj\Debug\Partitionare_Poligon.csproj.GenerateResource.cache
+D:\College 2021-2022\Geometrie\Partitionare_Poligon\obj\Debug\Partitionare_Poligon.csproj.CoreCompileInputs.cache
+D:\College 2021-2022\Geometrie\Partitionare_Poligon\obj\Debug\Partitionare_Poligon.exe
+D:\College 2021-2022\Geometrie\Partitionare_Poligon\obj\Debug\Partitionare_Poligon.pdb

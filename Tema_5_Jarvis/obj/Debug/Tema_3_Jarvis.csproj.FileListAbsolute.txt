@@ -1,0 +1,11 @@
+D:\College 2021-2022\Geometrie\Tema_3_Jarvis\bin\Debug\Tema_3_Jarvis.exe.config
+D:\College 2021-2022\Geometrie\Tema_3_Jarvis\bin\Debug\Tema_3_Jarvis.exe
+D:\College 2021-2022\Geometrie\Tema_3_Jarvis\bin\Debug\Tema_3_Jarvis.pdb
+D:\College 2021-2022\Geometrie\Tema_3_Jarvis\obj\Debug\Tema_3_Jarvis.csproj.AssemblyReference.cache
+D:\College 2021-2022\Geometrie\Tema_3_Jarvis\obj\Debug\Tema_3_Jarvis.csproj.SuggestedBindingRedirects.cache
+D:\College 2021-2022\Geometrie\Tema_3_Jarvis\obj\Debug\Tema_3_Jarvis.Properties.Resources.resources
+D:\College 2021-2022\Geometrie\Tema_3_Jarvis\obj\Debug\Tema_3_Jarvis.csproj.GenerateResource.cache
+D:\College 2021-2022\Geometrie\Tema_3_Jarvis\obj\Debug\Tema_3_Jarvis.csproj.CoreCompileInputs.cache
+D:\College 2021-2022\Geometrie\Tema_3_Jarvis\obj\Debug\Tema_3_Jarvis.exe
+D:\College 2021-2022\Geometrie\Tema_3_Jarvis\obj\Debug\Tema_3_Jarvis.pdb
+D:\College 2021-2022\Geometrie\Tema_3_Jarvis\obj\Debug\Tema_5_Jarvis.Form1.resources
