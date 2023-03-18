@@ -1,0 +1,11 @@
+D:\College 2021-2022\Geometrie\dreptunghi arie minima\bin\Debug\dreptunghi arie minima.exe.config
+D:\College 2021-2022\Geometrie\dreptunghi arie minima\bin\Debug\dreptunghi arie minima.exe
+D:\College 2021-2022\Geometrie\dreptunghi arie minima\bin\Debug\dreptunghi arie minima.pdb
+D:\College 2021-2022\Geometrie\dreptunghi arie minima\obj\Debug\dreptunghi arie minima.csproj.AssemblyReference.cache
+D:\College 2021-2022\Geometrie\dreptunghi arie minima\obj\Debug\dreptunghi arie minima.csproj.SuggestedBindingRedirects.cache
+D:\College 2021-2022\Geometrie\dreptunghi arie minima\obj\Debug\dreptunghi_arie_minima.Form1.resources
+D:\College 2021-2022\Geometrie\dreptunghi arie minima\obj\Debug\dreptunghi_arie_minima.Properties.Resources.resources
+D:\College 2021-2022\Geometrie\dreptunghi arie minima\obj\Debug\dreptunghi arie minima.csproj.GenerateResource.cache
+D:\College 2021-2022\Geometrie\dreptunghi arie minima\obj\Debug\dreptunghi arie minima.csproj.CoreCompileInputs.cache
+D:\College 2021-2022\Geometrie\dreptunghi arie minima\obj\Debug\dreptunghi arie minima.exe
+D:\College 2021-2022\Geometrie\dreptunghi arie minima\obj\Debug\dreptunghi arie minima.pdb

@@ -1,0 +1,11 @@
+D:\College 2021-2022\Geometrie\invelitoare_convexa\bin\Debug\invelitoare_convexa.exe.config
+D:\College 2021-2022\Geometrie\invelitoare_convexa\bin\Debug\invelitoare_convexa.exe
+D:\College 2021-2022\Geometrie\invelitoare_convexa\bin\Debug\invelitoare_convexa.pdb
+D:\College 2021-2022\Geometrie\invelitoare_convexa\obj\Debug\invelitoare_convexa.csproj.AssemblyReference.cache
+D:\College 2021-2022\Geometrie\invelitoare_convexa\obj\Debug\invelitoare_convexa.csproj.SuggestedBindingRedirects.cache
+D:\College 2021-2022\Geometrie\invelitoare_convexa\obj\Debug\invelitoare_convexa.Form1.resources
+D:\College 2021-2022\Geometrie\invelitoare_convexa\obj\Debug\invelitoare_convexa.Properties.Resources.resources
+D:\College 2021-2022\Geometrie\invelitoare_convexa\obj\Debug\invelitoare_convexa.csproj.GenerateResource.cache
+D:\College 2021-2022\Geometrie\invelitoare_convexa\obj\Debug\invelitoare_convexa.csproj.CoreCompileInputs.cache
+D:\College 2021-2022\Geometrie\invelitoare_convexa\obj\Debug\invelitoare_convexa.exe
+D:\College 2021-2022\Geometrie\invelitoare_convexa\obj\Debug\invelitoare_convexa.pdb

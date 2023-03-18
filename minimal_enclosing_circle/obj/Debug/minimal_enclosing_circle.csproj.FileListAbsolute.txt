@@ -1,0 +1,11 @@
+D:\College 2021-2022\Geometrie\minimal_enclosing_circle\bin\Debug\minimal_enclosing_circle.exe.config
+D:\College 2021-2022\Geometrie\minimal_enclosing_circle\bin\Debug\minimal_enclosing_circle.exe
+D:\College 2021-2022\Geometrie\minimal_enclosing_circle\bin\Debug\minimal_enclosing_circle.pdb
+D:\College 2021-2022\Geometrie\minimal_enclosing_circle\obj\Debug\minimal_enclosing_circle.csproj.AssemblyReference.cache
+D:\College 2021-2022\Geometrie\minimal_enclosing_circle\obj\Debug\minimal_enclosing_circle.csproj.SuggestedBindingRedirects.cache
+D:\College 2021-2022\Geometrie\minimal_enclosing_circle\obj\Debug\minimal_enclosing_circle.Form1.resources
+D:\College 2021-2022\Geometrie\minimal_enclosing_circle\obj\Debug\minimal_enclosing_circle.Properties.Resources.resources
+D:\College 2021-2022\Geometrie\minimal_enclosing_circle\obj\Debug\minimal_enclosing_circle.csproj.GenerateResource.cache
+D:\College 2021-2022\Geometrie\minimal_enclosing_circle\obj\Debug\minimal_enclosing_circle.csproj.CoreCompileInputs.cache
+D:\College 2021-2022\Geometrie\minimal_enclosing_circle\obj\Debug\minimal_enclosing_circle.exe
+D:\College 2021-2022\Geometrie\minimal_enclosing_circle\obj\Debug\minimal_enclosing_circle.pdb
