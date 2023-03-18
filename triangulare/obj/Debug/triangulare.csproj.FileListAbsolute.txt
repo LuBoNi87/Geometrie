@@ -1,0 +1,11 @@
+D:\College 2021-2022\Geometrie\triangulare\bin\Debug\triangulare.exe.config
+D:\College 2021-2022\Geometrie\triangulare\bin\Debug\triangulare.exe
+D:\College 2021-2022\Geometrie\triangulare\bin\Debug\triangulare.pdb
+D:\College 2021-2022\Geometrie\triangulare\obj\Debug\triangulare.csproj.AssemblyReference.cache
+D:\College 2021-2022\Geometrie\triangulare\obj\Debug\triangulare.csproj.SuggestedBindingRedirects.cache
+D:\College 2021-2022\Geometrie\triangulare\obj\Debug\triangulare.Form1.resources
+D:\College 2021-2022\Geometrie\triangulare\obj\Debug\triangulare.Properties.Resources.resources
+D:\College 2021-2022\Geometrie\triangulare\obj\Debug\triangulare.csproj.GenerateResource.cache
+D:\College 2021-2022\Geometrie\triangulare\obj\Debug\triangulare.csproj.CoreCompileInputs.cache
+D:\College 2021-2022\Geometrie\triangulare\obj\Debug\triangulare.exe
+D:\College 2021-2022\Geometrie\triangulare\obj\Debug\triangulare.pdb

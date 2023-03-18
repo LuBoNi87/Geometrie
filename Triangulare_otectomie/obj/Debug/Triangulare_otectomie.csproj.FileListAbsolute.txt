@@ -1,0 +1,11 @@
+D:\College 2021-2022\Geometrie\Triangulare_otectomie\bin\Debug\Triangulare_otectomie.exe.config
+D:\College 2021-2022\Geometrie\Triangulare_otectomie\bin\Debug\Triangulare_otectomie.exe
+D:\College 2021-2022\Geometrie\Triangulare_otectomie\bin\Debug\Triangulare_otectomie.pdb
+D:\College 2021-2022\Geometrie\Triangulare_otectomie\obj\Debug\Triangulare_otectomie.csproj.AssemblyReference.cache
+D:\College 2021-2022\Geometrie\Triangulare_otectomie\obj\Debug\Triangulare_otectomie.csproj.SuggestedBindingRedirects.cache
+D:\College 2021-2022\Geometrie\Triangulare_otectomie\obj\Debug\Triangulare_otectomie.Form1.resources
+D:\College 2021-2022\Geometrie\Triangulare_otectomie\obj\Debug\Triangulare_otectomie.Properties.Resources.resources
+D:\College 2021-2022\Geometrie\Triangulare_otectomie\obj\Debug\Triangulare_otectomie.csproj.GenerateResource.cache
+D:\College 2021-2022\Geometrie\Triangulare_otectomie\obj\Debug\Triangulare_otectomie.csproj.CoreCompileInputs.cache
+D:\College 2021-2022\Geometrie\Triangulare_otectomie\obj\Debug\Triangulare_otectomie.exe
+D:\College 2021-2022\Geometrie\Triangulare_otectomie\obj\Debug\Triangulare_otectomie.pdb

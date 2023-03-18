@@ -1,0 +1,11 @@
+D:\College 2021-2022\Geometrie\Triangulare_Poligon_Monoton\bin\Debug\Triangulare_Poligon_Monoton.exe.config
+D:\College 2021-2022\Geometrie\Triangulare_Poligon_Monoton\bin\Debug\Triangulare_Poligon_Monoton.exe
+D:\College 2021-2022\Geometrie\Triangulare_Poligon_Monoton\bin\Debug\Triangulare_Poligon_Monoton.pdb
+D:\College 2021-2022\Geometrie\Triangulare_Poligon_Monoton\obj\Debug\Triangulare_Poligon_Monoton.csproj.AssemblyReference.cache
+D:\College 2021-2022\Geometrie\Triangulare_Poligon_Monoton\obj\Debug\Triangulare_Poligon_Monoton.csproj.SuggestedBindingRedirects.cache
+D:\College 2021-2022\Geometrie\Triangulare_Poligon_Monoton\obj\Debug\Triangulare_Poligon_Monoton.Form1.resources
+D:\College 2021-2022\Geometrie\Triangulare_Poligon_Monoton\obj\Debug\Triangulare_Poligon_Monoton.Properties.Resources.resources
+D:\College 2021-2022\Geometrie\Triangulare_Poligon_Monoton\obj\Debug\Triangulare_Poligon_Monoton.csproj.GenerateResource.cache
+D:\College 2021-2022\Geometrie\Triangulare_Poligon_Monoton\obj\Debug\Triangulare_Poligon_Monoton.csproj.CoreCompileInputs.cache
+D:\College 2021-2022\Geometrie\Triangulare_Poligon_Monoton\obj\Debug\Triangulare_Poligon_Monoton.exe
+D:\College 2021-2022\Geometrie\Triangulare_Poligon_Monoton\obj\Debug\Triangulare_Poligon_Monoton.pdb
